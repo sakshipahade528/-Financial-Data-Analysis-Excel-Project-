@@ -54,5 +54,9 @@ This project demonstrates practical Excel skills in:
 •	Financial Performance Evaluation
 
 
-📷 Dashboard Preview
+# 📷 Dashboard Preview
+
+<img width="1240" height="673" alt="image" src="https://github.com/user-attachments/assets/9a22899f-0581-4016-9b8c-1c515fe2e8fa" />
+
+
 

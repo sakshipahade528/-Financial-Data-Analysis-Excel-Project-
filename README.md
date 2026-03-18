@@ -14,3 +14,15 @@ Calculate profit and loss metrics
 Identify high-performing categories
 Monitor monthly financial growth
 Create an interactive dashboard for decision-making
+
+# 🛠 Tools & Excel Features Used
+
+Microsoft Excel
+Data Cleaning
+Pivot Tables
+Pivot Charts
+Conditional Formatting
+IF Function
+VLOOKUP / XLOOKUP
+Data Validation
+Dashboard Design
